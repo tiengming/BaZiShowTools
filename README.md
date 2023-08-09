@@ -1,2 +1,14 @@
 # BaZiShowTools
-My first Java project
+此前学完了Java基础语法，但感觉还是什么也不会，还是必须提高动手能力。我是跟着尚硅谷的课程学习，里面有同步的授课项目，所以在深入理解**拼电商客户管理系统**项目的基础上，结合了[lunnr-日历工具库](https://6tail.cn/calendar/api.html)，开发了一个八字排盘及客户管理系统，作为个人练习项目。
+
+**感谢尚硅谷，感谢6tail**
+
+## 目前功能：
+- 八字排盘
+- 八字记录保存/修改/删除
+
+## 未来展望
+按照我自己的八字体系，开发完整的自动批八字（实现这个功能，不知道猴年马月了，哈哈哈！）
+
+## 演示视频见下：
+[八字排盘及客户记录管理系统V1.0](https://www.bilibili.com/video/BV1Qr4y1o723/?share_source=copy_web&vd_source=7a4ae35d6a543b92ee474997f072a228)
